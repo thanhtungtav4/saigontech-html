@@ -1,4 +1,15 @@
 <?php include 'head.php' ?>
+<!--==========================
+  Hero Section
+============================-->
+<section id="hero" class="jumbotron">
+    <div class="hero-container">
+        <h1>GIẢI PHÁP VIỄN THÔNG</h1>
+        <p>Mang đến cho khách hàng các sản phẩm, dịch vụ viễn thông, các giải pháp CNTT trên nền tảng hạ tầng và công nghệ tốt nhất.
+        </p>
+    </div>
+</section><!-- #hero -->
+
 <main id="main">
 
     <!--==========================
