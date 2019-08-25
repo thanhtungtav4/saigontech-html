@@ -1,3 +1,4 @@
+<?php include 'head.php' ?>
 <main id="main">
 
     <!--==========================
