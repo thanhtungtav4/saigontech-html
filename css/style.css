@@ -409,6 +409,55 @@ h1, h2, h3, h4, h5, h6 {
     background-position: center !important;
     background-repeat: no-repeat !important;
 }
+.service_detail_content_second .content_second_container {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    z-index: 1;
+    position: relative;
+}
+.service_detail_content_second .service_items_row {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.service_detail_content_second .content_second_row .item_des {
+    position: relative;
+    display: -webkit-box;
+    line-height: 20px;
+}
+.item_icon {
+    float: left;
+    width: 27px;
+    height: 22px;
+    margin-right: 5px;
+    margin-top: 3px;
+    background: url("../img/check-organ-large.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content_second_row .item_des {
+    position: relative;
+    display: -webkit-box;
+    line-height: 20px;
+}
+.content_second_container {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    z-index: 1;
+    position: relative;
+}
+.about_detail_des {
+    font-size: 14px;
+    color: #000;
+    padding-bottom: 20px;
+    line-height: 22px;
+    text-align: justify;
+    width: 100%;
+    padding-left: 15px;
+}
 .owl-nav button {
     position: absolute;
     top: 50%;
@@ -1227,13 +1276,14 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-bottom: 6px;
 }
 #hero .hero-container p{
-    max-width: 650px;
+    max-width: 90%;
     color: #fff;
     font-size: 1rem;
     line-height: 18px;
     font-weight: 400;
     text-align: center;
 }
+
 #hero .hero-container h1{
     font-size: 2rem;
     font-weight: bold;
